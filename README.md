@@ -16,7 +16,7 @@ This repository contains configuration files for:
 
 ## 🖥️ Screenshots
 
-*Add screenshots of your setup here*
+*I haven't added screenshots yet.*
 
 ## ✨ Features
 
