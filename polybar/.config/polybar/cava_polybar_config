@@ -1,0 +1,27 @@
+[general]
+bars = 20
+framerate = 60
+autosens = 0
+sensitivity = 120
+lower_cutoff_freq = 50
+upper_cutoff_freq = 12000
+
+[input]
+method = pulse
+
+[output]
+method = raw
+channels = mono
+raw_target = /tmp/cava.fifo
+data_format = ascii
+noise_reduction = 90
+
+[eq]
+1 = 1.4
+2 = 1.2
+3 = 1.0
+4 = 0.9
+5 = 0.8
+6 = 0.7
+7 = 0.6
+8 = 0.5
